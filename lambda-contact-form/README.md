@@ -12,5 +12,8 @@ This project demonstrates how to build a serverless contact form using AWS Lambd
 ## Why It Matters
 Serverless architecture is cost-efficient and scalable. This shows I can build real-world, backend-powered apps without provisioning servers.
 
-## Status
-Hands-on setup in progress...
+## Screenshot
+
+Successful response after posting data to my Lambda function:
+
+![Lambda Test](./lambda-test.png)
