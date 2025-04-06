@@ -17,4 +17,13 @@ This project demonstrates how to create IAM users and groups in AWS, assign poli
 
 ## Why It Matters
 IAM is a core AWS service used to manage security and access. Every cloud role needs to understand how IAM controls access to AWS resources securely and properly.
+## Screenshots
+
+These screenshots show the IAM user (`mohamud`) with attached permissions and group membership:
+
+### User Permissions
+![IAM Permissions](./iam-user-permissions.png)
+
+### Group Membership
+![IAM Groups](./iam-user-groups.png)
 
