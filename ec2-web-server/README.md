@@ -19,3 +19,8 @@ This project involved launching an EC2 instance on AWS, connecting to it via SSH
 
 ## Why It Matters
 EC2 is a foundational AWS service. Being able to deploy, connect, and host content proves readiness for real-world cloud roles involving infrastructure setup and management.
+## Screenshot
+
+The image below shows my EC2 instance running Apache, proving successful setup and connection:
+
+![EC2 Setup](./ec2-proof.png)
