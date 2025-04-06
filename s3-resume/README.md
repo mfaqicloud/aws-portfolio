@@ -11,3 +11,8 @@ A static resume website hosted on AWS S3. This project demonstrates the use of A
 
 ## Live Website
 [View the site](http://mohamud-portfolio.s3-website.us-east-2.amazonaws.com)
+## Screenshot
+
+Here’s a full-page preview of the live resume website hosted on AWS S3:
+
+![S3 Resume Screenshot](./s3-website.png)
